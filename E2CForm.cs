@@ -41,7 +41,7 @@
             "Edges: 3 edges (2 circular bases and 1 curved lateral surface).",
             "Vertices: 0 vertices on the curved surface, 2 vertices on each base (total 4 vertices).",
             "Area Formula: 2 * π * radius * (radius + height).",
-            "Perimeter Formula: Not applicable, as cylinders have curved surfaces, not perimeters.",
+            "Surface Area Formula: 2πr² + 2πrh",
             "Cylinder", 800));
         }
     }
