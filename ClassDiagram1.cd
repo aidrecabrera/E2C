@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Experiment2C.E2CForm">
+    <Position X="8.75" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhAAACAAgBQAAASAAAADgAgAAAAAAAAAAABACAA=</HashCode>
+      <FileName>E2CForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Experiment2C.ShapeViewBlueprint">
+    <Position X="5" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAACQBAAAACACAAAACAAAAAAIAAAAAAgAAAAA=</HashCode>
+      <FileName>ShapeViewBlueprint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="E2C.EntryPoint">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>EntryPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -26,6 +26,7 @@ namespace Experiment2C
                     showImage.Image = (Image)resource;
                 }
             }
+            this.Text = imgurl;
             this.Icon = global::E2C.Properties.Resources.mmcmlogo;
             this.showImage.SizeMode = PictureBoxSizeMode.Zoom;
             this.edgeLabel.Text = edgeLabel;
